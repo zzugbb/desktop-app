@@ -2,8 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button, DatePicker } from 'antd';
 import './index.css';
-
-export class IndexPage extends React.Component {
+class Index extends React.Component {
   render() {
     return (
       <div className="body">
@@ -16,3 +15,5 @@ export class IndexPage extends React.Component {
     );
   }
 }
+
+export default Index

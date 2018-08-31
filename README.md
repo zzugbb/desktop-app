@@ -41,6 +41,7 @@ yarn estart
 
 * [React-router4简约教程](http://react-china.org/t/react-router4/15843)
 * [React-router 中的BrowserRouter 和 HashRouter](https://blog.csdn.net/aaa333qwe/article/details/79557044)
+* [react本地执行npm run build打包之后，本地打开index.html文件，出现空白页面](https://segmentfault.com/q/1010000010770354)
 
 ### 配置文件
 
