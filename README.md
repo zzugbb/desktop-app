@@ -1,5 +1,9 @@
 # desktop-app
 
+![](https://img.shields.io/badge/language-react-red.svg)
+![](https://img.shields.io/badge/license-MIT-blue.svg)
+![](https://img.shields.io/badge/repo%20size-81KB-green.svg)
+
 桌面程序demo，Electron + React
 
 ## 具体使用
